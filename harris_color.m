@@ -5,7 +5,6 @@
 % The code does three things listed as below
 % 1. Feature points detector : Harris Laplace
 % 2. Feature descriptor : SIFT and patch color histogram
-% 3. Show match points : Points indicated by the same number is a matching pair
 close all
 clear
 load 'rect_info.mat'
